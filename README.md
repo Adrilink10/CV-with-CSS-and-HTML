@@ -1,6 +1,6 @@
 # CV-with-CSS-and-HTML
 Project analysis:
-- 
+- Target User Profile: The target user profile will be the 
 - 
 - 
 
